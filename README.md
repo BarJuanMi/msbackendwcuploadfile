@@ -1,3 +1,3 @@
 # msbackendwcuploadfile
 
-Microservicio para contener la logica de negocio de los procesos internos atados a las opciones del respectivo menu
+Microservicio para contener la logica de negocio que maneja el cargue de archivos adjuntos e imagenes
